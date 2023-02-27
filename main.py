@@ -4,7 +4,7 @@ import pyttsx3
 
 situation = True
 
-openai.api_key = "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"
+openai.api_key = ""
 model_engine = "text-davinci-003"
 
 ## this is text to speech
